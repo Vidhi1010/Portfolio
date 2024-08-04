@@ -1,0 +1,29 @@
+[
+  {
+    "role": "SDE Intern",
+    "organisation": "Tech Mountains",
+    "startDate": "June, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on real-time chat application", "Reduced load times by 50%"],
+    "imageSrc":"history/techmountains.png"
+  },
+  {
+    "role": "Mern Stack Summer Training",
+    "organisation": "Cipher School",
+    "startDate": "Jun, 2024",
+    "endDate": "Jul, 2024",
+    "experiences": ["Worked on React library", "Designed the "],
+    "imageSrc": "history/cipherschool.jpeg"
+  },
+  {
+    "role": "Mern Stack Summer Training",
+    "organisation": "Programming Pathshala",
+    "startDate": "Jun, 2023",
+    "endDate": "Jul, 2023",
+    "experiences": [
+      "Worked on React library",
+      "Helped create React components"
+    ],
+    "imageSrc": "history/programmingPathshala.jpeg"
+  }
+]
